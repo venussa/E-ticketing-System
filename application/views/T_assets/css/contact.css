@@ -1,0 +1,73 @@
+.ccontent {
+    padding: 0.01em 16px;
+}
+
+.padding64 {
+    padding-top: 64px!important;
+    padding-bottom: 64px!important;
+    max-width: 800px;
+}
+
+.padding32 {
+    padding-top: 32px!important;
+    padding-bottom: 32px!important;
+}
+
+.wide {
+    letter-spacing: 4px;
+}
+
+col {
+    float: left;
+}
+
+@media (min-width: 601px){
+    .col.m6, .w3-half {
+        width: 49.99999%;
+    }
+}
+
+.margin-bottom {
+    margin-bottom: 16px!important;
+}
+
+.large {
+    font-size: 18px!important;
+}
+
+.row-padding.half {
+    padding: 0 8px;   
+}
+
+.half {
+    float: left;
+}
+
+.form-control {
+    border-radius: 0;
+}
+
+.cright {
+    float: right;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #000;
+    border-color: #000;
+}
+
+.btn-primary:hover{
+    color:#000;
+    background-color:#ccc;
+    border-color:#ccc;
+}
+
+.w3-section {
+    margin-top: 16px!important;
+    margin-bottom: 16px!important;
+}
+
+.btn {
+    border-radius: 0;
+}
